@@ -46,6 +46,7 @@
     "gulp-watch": "^4.1.1",
     "gulp-wrap": "^0.11.0",
     "http-server": "^0.8.0",
+    "js-sha1": "^0.3.0",
     "jshint-stylish": "^1.0.1",
     "karma": "0.13.19",
     "karma-chai": "0.1.0",
